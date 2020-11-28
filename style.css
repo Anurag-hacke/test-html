@@ -59,12 +59,14 @@ ul li .active a{
   transform: translate(-50%,-50%)
 }
 .title{
-  color: #fff;
-  font-size: 10px;
+  color: black;
+  font-size: 9px;
   top: 20vh;
   left: 40vh;
   list-style-image: url(anurag.jpg);
+  text-align: center;
+  text-align:inline block;
+  background-color:deeppink
 }
-.teachers name img{
-  padding-left:100px;
-}
+
+
